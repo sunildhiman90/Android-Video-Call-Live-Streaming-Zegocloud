@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ZegoCloudExample1</string>
+    <string name="your_user_id">Your User ID :%s</string>
+    <string name="your_user_name">Your User Name :%s</string>
+    <string name="call_cancel">Cancel</string>
+    <string name="call_ok">Ok</string>
 </resources>
